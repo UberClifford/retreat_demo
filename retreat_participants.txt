@@ -13,7 +13,7 @@ Peter Wad Sackett
 Amelie Fritz
 #Camilla Koldbæk Lemvigh
 Yuchen Li
-Giorgia Moranzoni
+#Giorgia Moranzoni
 Joakim Nøddeskov Clifford
 Kristine Fredlund Degn
 Louis Kraft
